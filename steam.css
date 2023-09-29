@@ -1,0 +1,54 @@
+.s1mple{
+	position:absolute;
+	
+	width:40px;
+	height:40px;
+	
+	left:76%;
+	top:1%;
+}
+ 
+.url{color:white; font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;  position:absolute; top:3.6%;left:30%;}
+
+.url2{color:white; font-family: "Motiva Sans", "Twemoji", "Noto Sans" ; position:absolute; top:3.6%;left:40%}
+
+.url3{color:white;font-family: "Motiva Sans", "Twemoji", "Noto Sans" ; position:absolute; top:3.6%; left:50%}
+
+.url4{color:white; font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;  position:absolute; top:3.6%;left:60%;}
+
+.steam{height:35px; width:35px;}
+
+h1{border:3px solid black;background-color:black;color:white ; width:50px ; height:10px}
+h6{position: absolute;border:3px solid white; background-color:white; top: 54.4%; left:73% ;}
+h4{border:3px solid black; background-color:black}
+.ttt{font-family:Roboto; }
+.linia{position:absolute; height:400px ; width:2020px ; top:-10%;}
+h3{position:absolute; top:46%; left: 73.4%;color:white;}
+h4{position:absolute;top:58%;left:73%;color:white}
+.csgo4{position:absolute;height:150px;width:290px;left:57.5%;top:30.5%; border:3px solid grey}
+.csgo3{position:absolute;height:150px;width:290px; float:top;left:73%;top:30.5% ; border:3px solid grey}
+.csgo2{position:absolute;height:150px;width:290px;left:57.5%;top:47.5%; border:3px solid grey}
+.csgo{position:absolute;left:22.5%;top:30%; float:left ;border:3px solid grey ; width:650px ; height:319px ;}
+.simple{position:absolute; left:75% ; top:2%; height: 50px; Width: 50px;  }
+.h5{ position:absolute ; left: -30% ; top:1.5%;  color:gray ;}
+.h8{position:absolute ;top: 24.6%;   left:24.5% ; color:white	;}
+.games{position:absolute; left:25% ; top:90% ; color:white ;}
+.red{ position:absolute; height:130px ; width:200px; position:absolute; left:54.3%; top:117%}
+.half-life{height: ; width:220px; height:360px; position:Absolute; left:30% ; top:100%;}
+.track{  width:220px; height:360px; position:absolute;  left:42.1% ; top:100%;}
+.ea24{height:130px ; width:200px; position:absolute;top:100% ; left: 54.3% }
+.sale{border: solid green 2px; background-color:green; position:absolute; top:131% ;left:54.3%; }
+.sale2{border:solid:green 2px; background-color:green; position:absolute; top:129.011%;left:54.3%;}
+.half2{border:solid:green 2px; background-color:green; position:absolute; top:136% ; left:31%;}
+.truck{border:solid:green 2px; background-color:green; position:absolute;top:136% ; left:43%}
+.fc24{border:solid:green 2px; background-color:green; position:absolute; top:112%; left:54.3%}
+.kategory{position:absolute; color:white; ; left:35%; top:170%;}
+.anime{position:absolute; left:23%; top:190%; }
+.story{position:absolute; left:36.4%; top:190%;}
+.fighting{position:absolute;left:49.5%;top:190%; color:white}
+.novel{position:absolute;left:63%;top:190%;  color:white}
+.anime2{position:absolute;left:28%;top:205%;  color:white}
+.story2{position:absolute;left:39.4%;top:205%; color:white}
+.fighting2{position:absolute;left:53%;top:205%;  color:white}
+.novel2{position:absolute;left:68%;top:207%;  color:white }
+body{background-color:rgb(50, 84, 132);}
